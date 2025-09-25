@@ -37,7 +37,7 @@ python -m venv .venv && source .venv/bin/activate  # (Windows: .venv\Scripts\act
 pip install -r requirements.txt
 ```
 
-**requirements.txt (example)**
+**requirements.txt **
 ```
 numpy
 scipy
